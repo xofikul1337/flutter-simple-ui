@@ -1,4 +1,4 @@
-# 🌟 Flutter Simple UI 🌟
+# 🌟 Flutter Simple UI 
 
 Welcome to the **Flutter Simple UI** repository! This project showcases a clean and simple user interface built with Flutter, perfect for beginners and those looking to understand the basics of Flutter UI design.
 
